@@ -18,4 +18,4 @@ Dla każdego zawodnika jest możliwość dodania meczu, w którym grał oraz rap
 
 Aplikację można używać w języku angielskim.
 
-Interfejs aplikacji jest bardzo prosty i przejrzysty. Nie posiada zbędnych elementów. 
+Interfejs aplikacji jest bardzo prosty i przejrzysty. Nie posiada zbędnych elementów. Dodałabym tylko obsługę trybu ciemnego dla tej aplikacji.
