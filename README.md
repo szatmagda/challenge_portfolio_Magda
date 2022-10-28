@@ -22,4 +22,4 @@ Interfejs aplikacji jest bardzo prosty i przejrzysty. Nie posiada zbędnych elem
 
 Podczas używania strony znalazłam dwa błędy. Jeden z nich znajduje się podczas dodawania zawodnika lub meczu. Na samym dole formularza mamy przyciski **SUBMIT** oraz **CLEAR**, które moim zdaniem powinny być w języku polskim (oczywiście podczas używania aplikacji w języku polskim).
 
-Drugi błąd występuje podczas logowania i używania opcji **Przypomnij hasło**. Po podaniu wymaganego e-mail'a wyświetla nam się komunikat po prawej strony u góry w zielonej ramce z informacją **Wysłano wiadomość, na ponady e-mail**. Podczas używania Devtools przy tej czynności pojawiły mi się błędy 400 oraz 550. 
+Drugi błąd występuje podczas logowania i używania opcji **Przypomnij hasło**. Po podaniu wymaganego e-maila wyświetla nam się komunikat po prawej strony u góry w zielonej ramce z informacją **Wysłano wiadomość, na podany e-mail**. Podczas używania Devtools przy tej czynności pojawiły mi się błędy **400** oraz **550**. 
