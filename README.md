@@ -18,4 +18,8 @@ Dla każdego zawodnika jest możliwość dodania meczu, w którym grał oraz rap
 
 Aplikację można używać w języku angielskim.
 
-Interfejs aplikacji jest bardzo prosty i przejrzysty. Nie posiada zbędnych elementów. Dodałabym tylko obsługę trybu ciemnego dla tej aplikacji.
+Interfejs aplikacji jest bardzo prosty i przejrzysty. Nie posiada zbędnych elementów. Dodałabym obsługę trybu ciemnego dla tej aplikacji, który jest obecnie często używana przez użytkowników.
+
+Podczas używania strony znalazłam dwa błędy. Jeden z nich znajduje się podczas dodawania zawodnika lub meczu. Na samym dole formularza mamy przyciski **SUBMIT** oraz **CLEAR**, które moim zdaniem powinny być w języku polskim (oczywiście podczas używania aplikacji w języku polskim).
+
+Drugi błąd występuje podczas logowania i używania opcji **Przypomnij hasło**. Po podaniu wymaganego e-mail'a wyświetla nam się komunikat po prawej strony u góry w zielonej ramce z informacją **Wysłano wiadomość, na ponady e-mail**. Podczas używania Devtools przy tej czynności pojawiły mi się błędy 400 oraz 550. 
