@@ -33,3 +33,13 @@ Interfejs aplikacji jest bardzo prosty i przejrzysty. Nie posiada zbędnych elem
 Podczas używania strony znalazłam dwa błędy. Jeden z nich znajduje się podczas dodawania zawodnika lub meczu. Na samym dole formularza mamy przyciski **SUBMIT** oraz **CLEAR**, które moim zdaniem powinny być w języku polskim (oczywiście podczas używania aplikacji w języku polskim).
 
 Drugi błąd występuje podczas logowania i używania opcji **Przypomnij hasło**. Po podaniu wymaganego e-maila wyświetla nam się komunikat po prawej strony u góry w zielonej ramce z informacją **Wysłano wiadomość, na podany e-mail**. Podczas używania Devtools przy tej czynności pojawiły mi się błędy **400** oraz **550**. 
+
+
+  
+## **TASK 2** 
+* ### _**SUBTASK 1**_
+[Pisanie przypadków testowych na podstawie User Story](https://docs.google.com/document/d/1c997GJo05DXqHIYbF5zm4k3nsTIAzTvku8L7eWZ63mc/edit?usp=share_link)
+* ### _**SUBTASK 2**_
+[Pisanie przypadków testowych na podstawie “własnych doświadczeń"](https://docs.google.com/document/d/1Ew3WCGkK52X4O8Q4Zw2aGHrdqhJxvb8bIOtCINYRefU/edit?usp=share_link)
+* ### _**SUBTASK 4**_
+[Pisanie przypadków testowych na podstawie “własnych doświadczeń" - aplikacja "Pich Eat Up"](https://docs.google.com/document/d/1F0SsL56qSDqwhe6dDyrb8qbnxSuvSQJPIIOTEE8LO_k/edit?usp=share_link)
