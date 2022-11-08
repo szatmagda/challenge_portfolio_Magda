@@ -1,6 +1,6 @@
 # Challenge_Portfolio_Magda
 
-## **TASK 1** 
+## **TASK 1** :white_check_mark:
 * ### _**SUBTASK 1**_
 7 punktów :smile:
 * ### _**SUBTASK 3**_
@@ -36,7 +36,7 @@ Drugi błąd występuje podczas logowania i używania opcji **Przypomnij hasło*
 
 
   
-## **TASK 2** 
+## **TASK 2** :white_check_mark:
 * ### _**SUBTASK 1**_
 [Pisanie przypadków testowych na podstawie User Story](https://docs.google.com/document/d/1c997GJo05DXqHIYbF5zm4k3nsTIAzTvku8L7eWZ63mc/edit?usp=share_link)
 * ### _**SUBTASK 2**_
