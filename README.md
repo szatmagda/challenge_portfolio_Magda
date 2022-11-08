@@ -26,7 +26,7 @@ Aplikację można używać w języku angielskim.
 
 **3. _Oceń interfejs aplikacji – czy Ci się podoba, czy nie?_**
 
-Interfejs aplikacji jest bardzo prosty i przejrzysty. Nie posiada zbędnych elementów. Dodałabym obsługę trybu ciemnego dla tej aplikacji, który jest obecnie często używana przez użytkowników.
+Interfejs aplikacji jest bardzo prosty i przejrzysty. Nie posiada zbędnych elementów. Dodałabym obsługę trybu ciemnego dla tej aplikacji, który jest obecnie często używany przez użytkowników.
 
 **4. _Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem?_**
 
