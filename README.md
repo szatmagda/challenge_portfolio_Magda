@@ -40,6 +40,6 @@ Drugi błąd występuje podczas logowania i używania opcji **Przypomnij hasło*
 * ### _**SUBTASK 1**_
 [Pisanie przypadków testowych na podstawie User Story](https://docs.google.com/document/d/1c997GJo05DXqHIYbF5zm4k3nsTIAzTvku8L7eWZ63mc/edit?usp=share_link)
 * ### _**SUBTASK 2**_
-[Pisanie przypadków testowych na podstawie “własnych doświadczeń"](https://docs.google.com/document/d/1Ew3WCGkK52X4O8Q4Zw2aGHrdqhJxvb8bIOtCINYRefU/edit?usp=share_link)
+[Pisanie przypadków testowych na podstawie “własnych doświadczeń" - strona "https://scouts-test.futbolkolektyw.pl/p"](https://docs.google.com/document/d/1Ew3WCGkK52X4O8Q4Zw2aGHrdqhJxvb8bIOtCINYRefU/edit?usp=share_link)
 * ### _**SUBTASK 4**_
-[Pisanie przypadków testowych na podstawie “własnych doświadczeń" - aplikacja "Pich Eat Up"](https://docs.google.com/document/d/1F0SsL56qSDqwhe6dDyrb8qbnxSuvSQJPIIOTEE8LO_k/edit?usp=share_link)
+[Pisanie przypadków testowych na podstawie “własnych doświadczeń" - aplikacja "Pick Eat Up"](https://docs.google.com/document/d/1F0SsL56qSDqwhe6dDyrb8qbnxSuvSQJPIIOTEE8LO_k/edit?usp=share_link)
