@@ -10,11 +10,11 @@ Moim głównym celem w projekcie jest nauczyć się nowych rzeczy z dziedziny te
 
 #### _**Magda**_ ♥️
 * ### _**SUBTASK 4**_
-**1. _Na czym polega ta aplikacja? Do czego służy?_**
+:bomb: **1. _Na czym polega ta aplikacja? Do czego służy?_**
 
 Aplikacja polega na zarządzaniu graczami, meczami oraz tworzeniu raportów. Umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników.
 
-**2. _Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmieniła?_**
+:bomb: **2. _Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmieniła?_**
 
 W aplikacji możemy dodawać graczy: każdy zawodnik ma swój profil, na którym znajdziemy jego najważniejsze dane (m.in. imię, nazwisko, miejsce zamieszkania, kontakt, waga, wzrost, pozycje na boisku, osiągnięcia itp.) Dodawanie gracza jest bardzo łatwe - wystarczy na stronie głównej nacisnąć przycisk **DODAJ GRACZA** po czym przenosi nas do formularza, w którym podajemy dane naszego zawodnika i klikamy **SUBMIT**. Lista wszystkich dodanych graczy znajduje się w zakładce **Gracze** po lewej stronie.
 
@@ -24,11 +24,11 @@ Dla każdego zawodnika jest możliwość dodania meczu, w którym grał oraz rap
 
 Aplikację można używać w języku angielskim.
 
-**3. _Oceń interfejs aplikacji – czy Ci się podoba, czy nie?_**
+:bomb: **3. _Oceń interfejs aplikacji – czy Ci się podoba, czy nie?_**
 
 Interfejs aplikacji jest bardzo prosty i przejrzysty. Nie posiada zbędnych elementów. Dodałabym obsługę trybu ciemnego dla tej aplikacji, który jest obecnie często używany przez użytkowników.
 
-**4. _Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem?_**
+:bomb: **4. _Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem?_**
 
 Podczas używania strony znalazłam dwa błędy. Jeden z nich znajduje się podczas dodawania zawodnika lub meczu. Na samym dole formularza mamy przyciski **SUBMIT** oraz **CLEAR**, które moim zdaniem powinny być w języku polskim (oczywiście podczas używania aplikacji w języku polskim).
 
@@ -38,8 +38,14 @@ Drugi błąd występuje podczas logowania i używania opcji **Przypomnij hasło*
   
 ## **TASK 2** :white_check_mark:
 * ### _**SUBTASK 1**_
-[Pisanie przypadków testowych na podstawie User Story](https://docs.google.com/document/d/1c997GJo05DXqHIYbF5zm4k3nsTIAzTvku8L7eWZ63mc/edit?usp=share_link)
+:pushpin: [Pisanie przypadków testowych na podstawie User Story](https://docs.google.com/document/d/1c997GJo05DXqHIYbF5zm4k3nsTIAzTvku8L7eWZ63mc/edit?usp=share_link)
 * ### _**SUBTASK 2**_
-[Pisanie przypadków testowych na podstawie “własnych doświadczeń" - strona "https://scouts-test.futbolkolektyw.pl/p"](https://docs.google.com/document/d/1Ew3WCGkK52X4O8Q4Zw2aGHrdqhJxvb8bIOtCINYRefU/edit?usp=share_link)
+:pushpin: [Pisanie przypadków testowych na podstawie “własnych doświadczeń" - strona "https://scouts-test.futbolkolektyw.pl/p"](https://docs.google.com/document/d/1Ew3WCGkK52X4O8Q4Zw2aGHrdqhJxvb8bIOtCINYRefU/edit?usp=share_link)
+* ### _**SUBTASK 3**_
+_**Po co piszemy przypadki testowe?**_ :black_nib:
+
+Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności. Jest to jedne z podstawowych zadań testera. Po wykonaniu testów, na podstawie przypadków testowych możemy tworzyć raporty z wykonanych testów.
+
+Jest to baza wiedzy o aplikacji, może być jedyną informacją o tym jak dana aplikacja działa i w jaki sposób powinna prawidłowo się zachowywać. Dzięki przypadkom testowym mamy kontrolę nad zmianami w konkretnych funkcjonalnościach. Przypadki testowe pomagają nam wypisać deweloperowi krok po kroku co ma zrobić, by móc odtworzyć błąd.
 * ### _**SUBTASK 4**_
-[Pisanie przypadków testowych na podstawie “własnych doświadczeń" - aplikacja "Pick Eat Up"](https://docs.google.com/document/d/1F0SsL56qSDqwhe6dDyrb8qbnxSuvSQJPIIOTEE8LO_k/edit?usp=share_link)
+:pushpin: [Pisanie przypadków testowych na podstawie “własnych doświadczeń" - aplikacja "Pick Eat Up"](https://docs.google.com/document/d/1F0SsL56qSDqwhe6dDyrb8qbnxSuvSQJPIIOTEE8LO_k/edit?usp=share_link)
