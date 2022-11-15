@@ -49,3 +49,21 @@ Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób różne moż
 Jest to baza wiedzy o aplikacji, może być jedyną informacją o tym jak dana aplikacja działa i w jaki sposób powinna prawidłowo się zachowywać. Dzięki przypadkom testowym mamy kontrolę nad zmianami w konkretnych funkcjonalnościach. Przypadki testowe pomagają nam wypisać deweloperowi krok po kroku co ma zrobić, by móc odtworzyć błąd.
 * ### _**SUBTASK 4**_
 :pushpin: [Pisanie przypadków testowych na podstawie “własnych doświadczeń" - aplikacja "Pick Eat Up"](https://docs.google.com/document/d/1F0SsL56qSDqwhe6dDyrb8qbnxSuvSQJPIIOTEE8LO_k/edit?usp=share_link)
+
+
+
+## **TASK 3** :white_check_mark:
+* ### _**SUBTASK 2**_
+:pushpin: [Testowanie według planów testów i raportowanie błędów](https://docs.google.com/document/d/13DG-gMUyzZdD5VKnJMifGyB24nWvbXdLTLegalrgQqA/edit?usp=share_link)
+
+:pushpin: [Test cases wykorzystane do zadania](https://docs.google.com/document/d/1Ew3WCGkK52X4O8Q4Zw2aGHrdqhJxvb8bIOtCINYRefU/edit?usp=share_link)
+
+* ### _**SUBTASK 3**_
+:pushpin: [Raport z wykonanych testów](https://docs.google.com/document/d/1tuYiqVfw2PuA2bivXCv-o66wrgU4MW7A20bNwLsPCo4/edit?usp=share_link)
+
+* ### _**SUBTASK 4**_
+:pushpin: [Sesja testów eksploracyjnych](https://docs.google.com/document/d/1IBFQ85szAO-S9Li-aTk2AQR47hErXCqurbDc3z8GzE8/edit?usp=share_link)
+
+_**Wnioski po wykonaniu sesji testów eksploracyjnych**_ :black_nib:
+
+Uważam, że taka metoda testowania eksploracyjnego jest bardzo dobrym rozwiązaniem dla większych grup. Każdy członek grupy ma swoje przydzielone zadanie i własny “Tour”. Grupa wykonuje szybciej testowanie danej aplikacji, a wykonane testy powtarzają się rzadziej niż gdyby każdy testował losowe funkcje na stronie. 
