@@ -67,3 +67,32 @@ Jest to baza wiedzy o aplikacji, może być jedyną informacją o tym jak dana a
 _**Wnioski po wykonaniu sesji testów eksploracyjnych**_ :black_nib:
 
 Uważam, że taka metoda testowania eksploracyjnego jest bardzo dobrym rozwiązaniem dla większych grup. Każdy członek grupy ma swoje przydzielone zadanie i własny “Tour”. Grupa wykonuje szybciej testowanie danej aplikacji, a wykonane testy powtarzają się rzadziej niż gdyby każdy testował losowe funkcje na stronie. 
+
+
+
+## **TASK 4** :white_check_mark:
+* ### _**SUBTASK 2**_
+:pushpin: [Testowanie eksploracyjne i raportowanie błędów - Focusly](https://docs.google.com/document/d/1dZ4DXeBr2F1VGq5zSH0PN6kD84r7dj_oG-3JA5Cwxk8/edit?usp=share_link)
+
+* ### _**SUBTASK 3**_
+_**Do czego służy ta aplikacja?**_ :black_nib:
+
+:bomb: **1. _Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?_**
+
+Aplikacja służy do pomocy użytkownikom w medytacji, oddychaniu i odnalezieniu wewnętrznego spokoju. Jej celem jest w łatwy i przejrzysty sposób przekazać niezbędną w tym temacie wiedzę.
+
+:bomb: **2. _Kto ma być użytkownikiem końcowym aplikacji?_**
+
+Użytkownikiem końcowym mają być wszystkie osoby, które potrzebują pomocy ekspertów w sprawie spokoju, relaksu oraz w ukojeniu stresów i nerwów.
+
+:bomb: **3. _Czy według Ciebie aplikacja jest user friendly?_**
+
+Według mnie, aplikacja jest user friendly. Jest ona intuicyjna i przejrzysta, łatwo ją się obługuje. Aplikację można używać zarówno online, jak i offline. Reakcje aplikacji są dość szybkie, długo nie trzeba czekać na interakcję. 
+
+:bomb: **4. _Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?_**
+
+Aplikacja ma kilka nie dużych błędów, głównie w tłumaczeniach. W wersji angielskiej brakuje dosyć sporo funkcji, które możemy znaleźć w wersji w języku polskim. Aplikacja jest dość nie stabilna, potrafi w losowym momencie się wyłączyć lub zawiesić.
+
+:bomb: **5. _Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?_**
+
+Aplikacje internetowe testujemy tylko głównie na różnych oprogramowaniach komputera oraz przeglądarkach. W aplikacjach natywnych
