@@ -96,3 +96,8 @@ Aplikacja ma kilka nie dużych błędów, głównie w tłumaczeniach. W wersji a
 :bomb: **5. _Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?_**
 
 Aplikacje natywne należy pisać pod daną platformę. Aplikacje internetowe możemy odpalić na każdej przeglądarce i na każdym urządzeniu z dostępem do internetu. Różnią się technologią, wydajnością, czasem potrzebnym na jej stworzenie oraz ceną. 
+
+
+
+## **TASK 5** :white_check_mark:
+* ### _**SUBTASK 3**_
