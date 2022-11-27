@@ -102,101 +102,82 @@ Aplikacje natywne należy pisać pod daną platformę. Aplikacje internetowe mo�
 ## **TASK 5** :white_check_mark:
 * ### _**SUBTASK 3**_
 
-**1. _Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname._**
-
+:crystal_ball: **1. _Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname._**
+```
 SELECT * FROM actors
-
 ORDER BY surname
-
+```
 ![1](https://user-images.githubusercontent.com/116760612/204111533-63f68d4e-5455-4731-9fa5-b7d9d966c2a2.PNG)
 
-**2. _Wyświetl film, który powstał w 2019 roku._**
-
+:crystal_ball: **2. _Wyświetl film, który powstał w 2019 roku._**
+```
 SELECT year_of_production, title
-
 FROM movies
-
 WHERE year_of_production = 2019
-
+```
 ![2](https://user-images.githubusercontent.com/116760612/204111551-9cfe720a-790a-4477-858e-68cfd7bb67a5.PNG)
 
-**3. _Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem._**
-
+:crystal_ball: **3. _Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem._**
+```
 SELECT year_of_production, title
-
 FROM movies
-
 WHERE year_of_production BETWEEN 1900 AND 1999
-
+```
 ![3](https://user-images.githubusercontent.com/116760612/204111569-43c89c95-813b-4c02-b20f-b4e48406c9a8.PNG)
 
-**4. _ Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$._**
-
+:crystal_ball: **4. _ Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$._**
+```
 SELECT title, price
-
 FROM movies
-
 WHERE price < 7
-
+```
 ![4](https://user-images.githubusercontent.com/116760612/204111605-b9a3a251-2580-4a56-8161-68f18a94d2d9.PNG)
 
-**5. _Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN._**
-
+:crystal_ball: **5. _Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN._**
+```
 SELECT *
-
 FROM actors
-
 WHERE actor_id  >= 4 AND actor_id <= 7
-
+```
 ![5](https://user-images.githubusercontent.com/116760612/204111637-55ea4ec8-a4ee-4922-a06d-dd69ea62abb1.PNG)
 
-**6. _Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny._**
-
+:crystal_ball: **6. _Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny._**
+```
 SELECT *
-
 FROM customers
-
 WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6
-
+```
 ![6](https://user-images.githubusercontent.com/116760612/204111644-19538bc1-77e9-4a6e-8004-85884e0ba67e.PNG)
 
-**7. _Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN._**
-
+:crystal_ball: **7. _Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN._**
+```
 SELECT *
-
 FROM customers
-
 WHERE customer_id IN (1, 3, 5)
-
+```
 ![7](https://user-images.githubusercontent.com/116760612/204111661-1f24ca79-8f46-47c2-9162-535af6664942.PNG)
 
-**8. _Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”._**
-
+:crystal_ball: **8. _Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”._**
+```
 SELECT *
-
 FROM actors
-
 WHERE name LIKE 'An%'
-
+```
 ![8](https://user-images.githubusercontent.com/116760612/204111674-4a0e5ad5-0d09-4256-8be8-4e51ca79c2bf.PNG)
 
-**9. _Wyświetl dane klienta, który nie ma podanego adresu email._**
-
+:crystal_ball: **9. _Wyświetl dane klienta, który nie ma podanego adresu email._**
+```
 SELECT *
-
 FROM customers
-
 WHERE email IS NULL 
-
+```
 ![9](https://user-images.githubusercontent.com/116760612/204111683-be317bd9-f172-4078-94a8-9750c0fa7c07.PNG)
 
-**10. _Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id._**
-
+:crystal_ball: **10. _Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id._**
+```
 SELECT *
-
 FROM movies
-
 WHERE price > 9 AND movie_id BETWEEN 2 AND 8
-
+```
 ![10](https://user-images.githubusercontent.com/116760612/204111702-6a1fe1b3-5ba4-4618-95a4-c8e96946c9a7.PNG)
 
