@@ -8,7 +8,7 @@ Zdobyłam 7 punktów :smile:
 
 Moim głównym celem w projekcie jest nauczyć się nowych rzeczy z dziedziny testowania. Mam nadzieję, że z waszą pomocą będę w stanie poznać nowe zagadnienia oraz stworzyć swój pierwszy poważny projekt, którym będę mogła się chwalić przed innymi. Mam nadzieję, że po kursie będę o krok bliżej do znalezienia swojej wymarzonej pracy. 😊
 
-#### _**Magda**_ ♥️
+_**Magda**_ ♥️
 * ### _**SUBTASK 4**_
 :bomb: **1. _Na czym polega ta aplikacja? Do czego służy?_**
 
@@ -79,23 +79,31 @@ _**Do czego służy ta aplikacja?**_ :black_nib:
 
 :bomb: **1. _Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?_**
 
-Aplikacja służy do pomocy użytkownikom w medytacji, oddychaniu i odnalezieniu wewnętrznego spokoju. Jej celem jest w łatwy i przejrzysty sposób przekazać niezbędną w tym temacie wiedzę.
+Aplikacja pomaga użytkownikowi w zachowaniu zdrowia psychicznego i fizycznego. Oferuje medytacje, podcasty na temat zdrowia psychicznego, radzenia sobie ze stresem, oddechu, świadomości (mindfulness), emocji i relacji. Przy jej pomocy można wykonywać ćwiczenia oddechowe oraz odsłuchać relaksującej muzyki. Jej celem jest w łatwy i przejrzysty sposób przekazać niezbędną w tym temacie wiedzę.
 
 :bomb: **2. _Kto ma być użytkownikiem końcowym aplikacji?_**
 
-Użytkownikiem końcowym mają być wszystkie osoby, które potrzebują pomocy ekspertów w sprawie spokoju, relaksu oraz w ukojeniu stresów i nerwów.
+Użytkownikiem końcowym jest osoba szukająca pomocy w zdobyciu nowych nawyków na co dzień z relaksacją lub wiedzy na temat zdrowia psychicznego. Jest to osoba, która chce zdobyć nowe umiejętności przy pomocy nowych technologii, w każdej możliwej chwili. Użytkownik chce zatroszczyć się o siebie w zdrowiu psychicznym i szuka motywacji w tej aplikacji. Dzięki niej dokonanie zmian jest łatwiejsze i szybsze.
 
 :bomb: **3. _Czy według Ciebie aplikacja jest user friendly?_**
 
-Według mnie, aplikacja jest user friendly. Jest ona intuicyjna i przejrzysta, łatwo ją się obługuje. Aplikację można używać zarówno online, jak i offline. Reakcje aplikacji są dość szybkie, długo nie trzeba czekać na interakcję. 
+Według mnie, aplikacja jest user friendly. Ma prostą, przejrzystą i nieskomplikowaną nawigację. Rozpoznanie działania aplikacji jest szybkie, przyciski są umieszczone w dobrych miejscach, całość jest intuicyjne.
+
+Znajduje się jednak jeden błąd w aplikacji, który uniemożliwia używania z paska nawigacyjnego w telefonie funkcji powrotu. Należy nacisnąć znaczek strzałki albo krzyżyka, aby powrócić do poprzedniej strony aplikacji. Mimo tego mankamentu aplikacja sama w sobie jest przyjazna w użytkowaniu.
 
 :bomb: **4. _Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?_**
 
-Aplikacja ma kilka nie dużych błędów, głównie w tłumaczeniach. W wersji angielskiej brakuje dosyć sporo funkcji, które możemy znaleźć w wersji w języku polskim. Aplikacja jest dość nie stabilna, potrafi w losowym momencie się wyłączyć lub zawiesić.
+W aplikacji zmieniłabym w zakładce "Odkrywaj" sposób wyświetlania treści. Nie mamy konkretnego podziału materiałów na podcasty, wyzwania, medytacje itp.
+
+Zmieniłabym miejsce na zapisane przez nas ulubione materiały, dodając zakładkę "Ulubione" w menu dolnym. Obecnie znalezienie ulubionych materiałów jest niewygodny i mało intuicyjne - należy wejść w nasz profil od zakładki "Strona główna" i dopiero wtedy pojawiają się nasze treści.
+
+Dobrym pomysłem byłoby dodanie zakładki społeczności, w której użytkownicy aplikacji mogliby rozmawiać ze sobą, zasięgać rad oraz motywować siebie nawzajem.
 
 :bomb: **5. _Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?_**
 
-Aplikacje natywne należy pisać pod daną platformę. Aplikacje internetowe możemy odpalić na każdej przeglądarce i na każdym urządzeniu z dostępem do internetu. Różnią się technologią, wydajnością, czasem potrzebnym na jej stworzenie oraz ceną. 
+Aby przetestować aplikację natywną, trzeba liczyć się, że testowany produkt może mieć inne błędy na jednym niż na drugim oprogramowaniach urządzenia, działanie na poszczególnych wersjach urządzeń itp.
+
+Dużym aspektem jest konkurencja podobnych aplikacji na rynku, użytkownik będzie korzystał z tej, która działa najszybciej i jest najbardziej intuicyjna dla niego.
 
 
 
