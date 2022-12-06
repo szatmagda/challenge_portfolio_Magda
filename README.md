@@ -66,8 +66,7 @@ Jest to baza wiedzy o aplikacji, może być jedyną informacją o tym jak dana a
 
 _**Wnioski po wykonaniu sesji testów eksploracyjnych**_ :black_nib:
 
-Uważam, że taka metoda testowania eksploracyjnego jest bardzo dobrym rozwiązaniem dla większych grup. Każdy członek grupy ma swoje przydzielone zadanie i własny “Tour”. Grupa wykonuje szybciej testowanie danej aplikacji, a wykonane testy powtarzają się rzadziej niż gdyby każdy testował losowe funkcje na stronie. 
-
+Uważam, że taka metoda testowania eksploracyjnego jest bardzo dobrym rozwiązaniem dla większych grup. Każdy członek grupy ma swoje przydzielone zadanie i własny “Tour”. Grupa wykonuje szybciej testowanie danej aplikacji, a wykonane testy powtarzają się rzadziej niż przy normalnym testowaniu.
 
 
 ## **TASK 4** :white_check_mark:
