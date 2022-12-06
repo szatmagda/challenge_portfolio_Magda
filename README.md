@@ -2,7 +2,7 @@
 
 ## **TASK 1** :white_check_mark:
 * ### _**SUBTASK 1**_
-7 punktów :smile:
+Zdobyłam 7 punktów :smile:
 * ### _**SUBTASK 3**_
 **Cześć!** 😃 Mam na imię Magda. Zdecydowałam się na udział w programie, aby poszerzyć swoją wiedzę z obszaru testowania manualnego. Stworzenie pierwszego projektu do portfolio będzie dla mnie niezwykłym doświadczeniem.
 
