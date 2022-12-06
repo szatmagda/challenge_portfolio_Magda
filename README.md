@@ -2,7 +2,7 @@
 
 ## **TASK 1** :white_check_mark:
 * ### _**SUBTASK 1**_
-Zdobyłam 7 punktów :smile:
+Zdobyłam 7/10 punktów :sparkles:
 * ### _**SUBTASK 3**_
 **Cześć!** 😃 Mam na imię Magda. Zdecydowałam się na udział w programie, aby poszerzyć swoją wiedzę z obszaru testowania manualnego. Stworzenie pierwszego projektu do portfolio będzie dla mnie niezwykłym doświadczeniem.
 
@@ -281,4 +281,7 @@ VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa')
 ```
 ![20](https://user-images.githubusercontent.com/116760612/206002245-a9803c17-4ede-410b-b6df-b06c5a535717.PNG)
 
+* ### _**SUBTASK 2**_
+Zdobyłam 13/15 punktów :sparkles:
 
+![Przechwytywanie](https://user-images.githubusercontent.com/116760612/206003427-d939885f-418c-49d0-af0d-5fb3dddc1693.PNG)
